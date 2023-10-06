@@ -17,7 +17,6 @@
 # Cadastro de endereço
 
 ![Capa do projeto](capa_files/capa_png%20(2).jpeg)
-
 ## Descrição
 o projeto formulário de cadastro de endereço tem como funcionalidade demonstrar a utilização da linguagem de JavaScript para o consumo de API de endereço que esta disponível no site ViaCEP.
  
