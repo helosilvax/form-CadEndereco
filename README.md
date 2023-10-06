@@ -16,7 +16,7 @@
 
 # Cadastro de endereço
 
-![Capa do projeto](capa_png)
+![Capa do projeto](capa_files/capa_png%20(2).jpeg)
 
 ## Descrição
 
